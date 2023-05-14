@@ -9,6 +9,7 @@ body {
 
 body.modo-escuro {
     background-color: #212121;
+    color: #454545;
 }
 
 header {
