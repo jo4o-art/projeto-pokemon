@@ -4,11 +4,11 @@ body {
     margin: 0 auto;
     background-color: #5e5b5bad;
     color: #333333;
+    transition: 1s;
 }
 
 body.modo-escuro {
     background-color: #212121;
-    color: #f5f5f5;
 }
 
 header {
